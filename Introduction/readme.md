@@ -1,11 +1,10 @@
 # INTRODUCTION
-1. Introduction programming language and needed beginner.
-2. What you should already know , before you continue you should have a BASIC understanding of 
-[w3schools](https://www.w3schools.com)
+1. Pengantar bahasa pemrograman dan pemula yang dibutuhkan.
+2. Apa yang seharusnya sudah Anda ketahui, sebelum melanjutkan, Anda harus memiliki pemahaman DASAR [w3schools](https://www.w3schools.com)
     - HTML
     - CSS 
     - Javascript
-3. Understanding about Client Side and Server Side language
+3. Pemahaman tentang Client Side and Server Side language
 [Client Side vs Server Side](https://www.c-sharpcorner.com/UploadFile/2072a9/client-side-vs-server-side-programming-languages/)
     - Client Side  : HTML, CSS, Javascript, etc
     - Server Side  : PHP, Python, Ruby, etc
@@ -13,9 +12,9 @@
 [PHP Intro](https://www.w3schools.com/php/php_intro.asp)        
 ## How to Install
 ### Install rules
-- Must know which OS is used and what is suitable
-- Which version is used and which is suitable
-- How to Configure the Server that is installed
+- Harus tahu OS mana yang digunakan dan apa yang cocok
+- Versi mana yang digunakan dan mana yang cocok
+- Cara Mengkonfigurasi Server yang diinstal
 ### Install reverensi 
 - install php -> knowlange version
 - install webserver
@@ -36,3 +35,15 @@
     -> MSSQL
     -> etc
 ```
+## Backend Developer Pembiasaan
+1. Baca Dokumentasi
+2. Mengenal dan beradaptasi dengan syntax
+3. Tenang saat terjadi error
+4. Search di google yang belum paham
+5. Banyakin explore
+6. Bertanya saat tidak tau dan sudah nyari tapi tidak ketemu atau jawabannya kurang puas
+
+## Latihan
+1. Menjelaskan secara global tentang kinerja backend developer sendiri
+2. Menjelaskan bahasa program PHP
+3. Gimana cara mengetahui bahwa itu code PHP
