@@ -1,15 +1,18 @@
 # INTRODUCTION
 1. Introduction programming language and needed beginner.
 2. What you should already know , before you continue you should have a BASIC understanding of
-- HTML
-- CSS 
-- Javascript
+    - HTML
+    - CSS 
+    - Javascript
+
 [w3schools](https://www.w3schools.com)
 3. Understanding about Client Side and Server Side language
-- Client Side  : HTML, CSS, Javascript, etc
-- Server Side  : PHP, Python, Ruby, etc
+    - Client Side  : HTML, CSS, Javascript, etc
+    - Server Side  : PHP, Python, Ruby, etc
+
 [Client Side vs Server Side](https://www.c-sharpcorner.com/UploadFile/2072a9/client-side-vs-server-side-programming-languages/)
 4. What, What on, Why and amazing aplication with php language.
+
 [PHP Intro](https://www.w3schools.com/php/php_intro.asp)        
 ## How to Install
 ### Install rules
@@ -19,12 +22,15 @@
 ### Install reverensi 
 - install php -> knowlange version
 - install webserver
+```
     -> xampp
     -> apache
     -> nginx
     -> laragon
     -> etc
+```
 - install database
+```
     -> mysql
     -> sqlite
     -> oracle
@@ -32,3 +38,4 @@
     -> postgreSQL
     -> MSSQL
     -> etc
+```
