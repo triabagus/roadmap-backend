@@ -1,4 +1,5 @@
 # First Touch
+Hi Backend Developer, ini saat nya kamu mengenal lebih dekat lagi tentang php language, berikut link reverensinya semoga bisa membantu teman-teman dalam belajar.Selamat Belajar Coding.
 ## Say Hello World
 Seorang programmer awal sering melakukan hello world bertujuan untuk memastikan apakah program server berfungsi dengan benar.Apabila hello world sudah bisa dilakukan dipastikan untuk langkah selanjutnya akan berjalan dengan stabil. [Katakan_Hello_World_With_PHP](https://github.com/triabagus/roadmap-backend/blob/master/2.Firts%20Touch/hello-world.php)  
 ## Beradaptasi dan mengenal dengan syntax php 
@@ -55,3 +56,5 @@ Fungsi var_dump () digunakan untuk menampilkan informasi terstruktur (jenis dan 
 2. Membuat array multidimensi
 3. Mengubah array menjadi object
 4. Memecahkan kata menjadi kalimat baru
+
+## Selanjutnya apa ?
