@@ -56,5 +56,8 @@ Fungsi var_dump () digunakan untuk menampilkan informasi terstruktur (jenis dan 
 2. Membuat array multidimensi
 3. Mengubah array menjadi object
 4. Memecahkan kata menjadi kalimat baru
+5. Konversi bilangan decimal, binary, hexadecimal.
 
 ## Selanjutnya apa ?
+1. [Introduction](https://github.com/triabagus/roadmap-backend/tree/master/1.Introduction)
+2. []().
