@@ -30,7 +30,15 @@ Untuk perbedaan antara variable and konstanta bisa dicek [Perbedaan-variable-dan
 - [Penulisan-variable](https://www.duniailkom.com/pengertian-variabel-dan-cara-penulisan-variabel-php/).
 - [Penulisan-konstanta](https://www.duniailkom.com/pengertian-konstanta-dan-cara-penulisan-konstanta-php/).
 ## Operator PHP
-Operator adalah simbol-simbol yang digunakan untuk melakukan operasi terhadap suatu nilai dan variabel.
+Operator adalah simbol-simbol yang digunakan untuk melakukan operasi terhadap suatu nilai dan variabel.Ada 6 Jenis operator dalam pemrograman PHP yang harus kita ketahui:
+
+1. Operator Aritmatika;
+2. Operator Penugasan atau Assignment;
+3. Operator Increment & Decrement;
+4. Operator Relasi atau pembanding;
+5. Operator Logika;
+6. Operator Bitwise;
+7. Operator Ternary.
 - [Operator-php-all](https://www.petanikode.com/php-operator/). 
 ## Type Data
 Variables can store data of different types, and different data types can do different things.
