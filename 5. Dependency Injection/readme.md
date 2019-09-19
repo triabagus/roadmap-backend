@@ -9,3 +9,7 @@ Disini ada contoh Basic DI, banyak sekali contohnya kalian bisa membandingkan di
 ## Design Principles SOLID
 SOLID adalah seperangkat prinsip desain berorientasi objek yang bertujuan membuat kode lebih mudah dikelola dan fleksibel.
 [Solid Principles Php](https://www.hashbangcode.com/article/solid-principles-php).
+
+## Sebelumnya
+[Object Oriented Programming](https://github.com/triabagus/roadmap-backend/tree/master/4.Object%20Oriented%20Programming)
+## Apa Selanjutnya ?
