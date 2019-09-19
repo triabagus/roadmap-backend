@@ -10,6 +10,7 @@ Adapun cara mentor terdahulu ,mereka sering-sering lihat github orang lain untuk
 ### Rekomendasi Artikel
 1. [Duniailkom-oop-php](https://www.duniailkom.com/tutorial-belajar-oop-php-pemrograman-berbasis-objek-php/).
 2. [Malasngoding-oop-php](https://www.malasngoding.com/php-oop-part-2-pengertian-class-object-property-dan-method/).
+3. [tutorialpoint-oop-php](https://www.tutorialspoint.com/php/php_object_oriented.htm).
 ### Rekomendasi Video
 1. [sandika-yt-oop-php-dasar](https://www.youtube.com/watch?v=ZKDUFoouyBI).
 
