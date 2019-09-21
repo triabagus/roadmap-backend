@@ -15,10 +15,16 @@ Alangkah baiknya kalau kalian pengguna linux kalian bisa install yang diperlukan
 Sebenarnya di OS lain juga bisa seperti windows atau mac.
 
 # SQL Database
-[w3schooll-sql](https://www.w3schools.com/sql/sql_intro.asp)
+SQL adalah bahasa standar untuk mengakses dan memanipulasi basis data, [materi-w3schooll-sql](https://www.w3schools.com/sql/sql_intro.asp).
 # NoSQL Database
-[7-basis-data-nosql-populer](https://www.codepolitan.com/7-basis-data-nosql-populer)
-
+Sesuai dengan namanya basis data NoSQL adalah jenis basis data yang tidak menggunakan perintah SQL dalam memanipulasi (menyimpan maupun mengambil data) basis data tersebut. Kebanyakan basis data NoSQL digunakan dalam dunia aplikasi web waktu nyata (real-time web app), [7-basis-data-nosql-populer](https://www.codepolitan.com/7-basis-data-nosql-populer).
+1. [Redis](http://redis.io/)
+2. [MongoDB](https://www.mongodb.com/)
+3. [CouchDB](https://couchdb.apache.org/)
+4. [Cassandra](https://cassandra.apache.org/)
+5. [Riak](http://basho.com/riak/)
+6. [Neo4j](http://neo4j.org/)
+7. [OrientDB](http://www.orientechnologies.com/orientdb/)
 # Akses Mysql
 1. [With-xampp](https://stackoverflow.com/questions/698914/how-can-i-access-the-mysql-command-line-with-xampp-for-windows)
 2. With-linux
@@ -42,3 +48,29 @@ Sebenarnya di OS lain juga bisa seperti windows atau mac.
 
     mysql> 
 ```
+# PHP Connection MYSQL AND PDO
+PHP 5 dan yang lebih baru dapat bekerja dengan database MySQL menggunakan:
+- MySQLi extension ("i" berarti perbaikan)
+- PDO (PHP Data Objects)
+Versi PHP yang lebih lama menggunakan ekstensi MySQL. Namun, ekstensi ini tidak digunakan lagi pada tahun 2012.
+## Haruskah saya menggunakan MySQLi atau PDO?
+Jika Anda membutuhkan jawaban singkat, itu akan menjadi "Apa pun yang Anda suka".[php_mysql_connect](https://www.w3schools.com/php/php_mysql_connect.asp)
+Baik MySQLi dan PDO memiliki kelebihan:
+
+| __MySQLi__ | __PDO__ |
+|-------------|------------|
+| MySQLi hanya akan bekerja dengan database MySQL.| PDO akan bekerja pada 12 sistem basis data yang berbeda     | 
+| Menawarkan API prosedural| Tidak menawarkan API prosedural |
+
+1. Jika Anda harus mengganti proyek Anda untuk menggunakan database lain, PDO mempermudah prosesnya. Anda hanya perlu mengubah string koneksi dan beberapa pertanyaan. Dengan MySQLi, Anda harus menulis ulang seluruh kode - termasuk queri.
+2. Keduanya berorientasi objek
+3. Keduanya mendukung Pernyataan Disiapkan. Pernyataan Disiapkan melindungi dari injeksi SQL, dan sangat penting untuk keamanan aplikasi web.
+# Latihan
+1. Make connection php with mysql dengan mysqli atau PDO
+2. Make data Create Read Update Delete (CRUD)
+3. Make Search and Pagination
+4. Make contoh menampilkan data yang saling berhubungan [JOIN](https://www.dofactory.com/sql/join)
+
+# Sebelumnya
+[Dependency Injection](https://github.com/triabagus/roadmap-backend/tree/master/5.%20Dependency%20Injection)
+# Apa Selanjutnya ?
