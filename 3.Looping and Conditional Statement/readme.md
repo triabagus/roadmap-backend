@@ -8,7 +8,7 @@ Dalam pemrograman komputer, loop kondisional atau struktur kontrol berulang adal
 ## Conditional Statement 
 Dalam ilmu komputer, pernyataan kondisional, ekspresi kondisional, dan konstruksi kondisional adalah fitur dari bahasa pemrograman, yang melakukan perhitungan atau tindakan yang berbeda tergantung pada apakah kondisi boolean yang ditentukan pemrogram mengevaluasi benar atau salah.
 
-![alt text](https://github.com/triabagus/roadmap-backend/blob/master/image/ifelse.gif)
+![alt text](https://github.com/triabagus/roadmap-backend/blob/master/3.Looping%20and%20Conditional%20Statement/image/ifelse.gif)
 ### If Else 
 Sangat sering ketika Anda menulis kode, Anda ingin melakukan tindakan berbeda untuk kondisi yang berbeda. Anda dapat menggunakan pernyataan kondisional dalam kode Anda untuk melakukan ini.
 
@@ -24,7 +24,7 @@ Switch statement - digunakan untuk melakukan tindakan yang berbeda berdasarkan k
 ## Looping Statement
 Perulangan yang dieksekusi untuk mengulang kode yang sama berkali-kali. Jumlah repetisinya itu beragam sesuai jumlah pengulangan.
 
-![alt text](https://github.com/triabagus/roadmap-backend/blob/master/image/while.gif)
+![alt text](https://github.com/triabagus/roadmap-backend/blob/master/3.Looping%20and%20Conditional%20Statement/image/while.gif)
 ### While Loop
 Seringkali saat Anda menulis kode, Anda ingin blok kode yang sama berulang kali berturut-turut. Alih-alih menambahkan beberapa baris kode yang hampir sama dalam sebuah skrip, kita dapat menggunakan loop untuk melakukan tugas seperti ini.
 
@@ -58,11 +58,14 @@ Untuk setiap iterasi loop, nilai elemen array saat ini ditetapkan ke $ value dan
 ### Nested Loop
 Merupakan looping yang bersarang atau sering digunakan untuk mengulang perulangan yang diulang dalam kondisi tertentu,  [nested-looping](https://www.improgrammer.net/php-nested-loop/).
 
-![alt text](https://github.com/triabagus/roadmap-backend/blob/master/image/nested.png)
+![alt text](https://github.com/triabagus/roadmap-backend/blob/master/3.Looping%20and%20Conditional%20Statement/image/nested.png)
 ## Latihan
 1. Deret ganjil, genap, fibonacci, prima.
 2. Membuat bintang segitiga siku, segitiga sama kaki, segitiga pascal.
 3. Membuat matrix penjumlahan dan perkalian.
 
-## Apa Selanjutnya
+## Materi Sebelumnya
 [Firts Touch](https://github.com/triabagus/roadmap-backend/tree/master/2.Firts%20Touch)
+## Apa Selanjutnya ?
+[Object Oriented Programming](https://github.com/triabagus/roadmap-backend/tree/master/4.Object%20Oriented%20Programming)
+
