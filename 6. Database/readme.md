@@ -72,8 +72,9 @@ Baik MySQLi dan PDO memiliki kelebihan:
 4. Make contoh menampilkan data yang saling berhubungan [JOIN](https://www.dofactory.com/sql/join)
 ![alt text](https://github.com/triabagus/roadmap-backend/blob/master/6.%20Database/LEFT-OUTER-JOIN1.jpg)
 5. Soal kedua JOIN
+
 ![alt text](https://github.com/triabagus/roadmap-backend/blob/master/6.%20Database/SQL-Joins-Left-Outer-Join.png)
 # Sebelumnya
 [Dependency Injection](https://github.com/triabagus/roadmap-backend/tree/master/5.%20Dependency%20Injection)
 # Apa Selanjutnya ?
-Error and Exception
+[Git](https://github.com/triabagus/roadmap-backend/tree/master/7.%20Git)
