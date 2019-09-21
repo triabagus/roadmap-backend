@@ -1,5 +1,5 @@
 # Git
-Git adalah version control system yang digunakan para developer untuk mengembangkan software secara bersama-bersama. Fungsi utama git yaitu mengatur versi dari source code program anda dengan mengasih tanda baris dan code mana yang ditambah atau diganti.
+[Git](https://git-scm.com/doc) adalah version control system yang digunakan para developer untuk mengembangkan software secara bersama-bersama. Fungsi utama git yaitu mengatur versi dari source code program anda dengan mengasih tanda baris dan code mana yang ditambah atau diganti.
 
 Git ini sebenernya memudahkan programmer untuk mengetahui perubahan source codenya daripada harus membuat file baru seperti Program.java, ProgramRevisi.java,  ProgramRevisi2.java, ProgramFix.java. Selain itu, dengan git kita tak perlu khawatir code yang kita kerjakan bentrok, karena setiap developer bias membuat branch sebagai workspacenya.Fitur yang tak kalah keren lagi, pada git kita bisa memberi komentar pada source code yang telah ditambah/diubah, hal ini mempermudah developer lain untuk tahu  kendala apa yang dialami developer lain.
 
@@ -23,3 +23,7 @@ Git ini sebenernya memudahkan programmer untuk mengetahui perubahan source coden
 * [Assembla](https://www.assembla.com/home)
 * [Gitlab](https://about.gitlab.com)
 * [Github](https://github.com)
+
+# Sebelumnya
+[Database](https://github.com/triabagus/roadmap-backend/tree/master/6.%20Database)
+# Apa Selanjutnya ?
