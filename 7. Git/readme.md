@@ -26,7 +26,7 @@ Git ini sebenernya memudahkan programmer untuk mengetahui perubahan source coden
 * Git Add
     - ketik diterminal
     ``` bash
-        git add . atau git add \*
+        git add . atau git add *
     ```
     menambahkan file baru pada repository(folder) keseluruhan
 
@@ -47,7 +47,7 @@ Git ini sebenernya memudahkan programmer untuk mengetahui perubahan source coden
 * Git Commit
     - ketik diterminal
     ``` bash
-        git commit -m \"(pesan yang apa kamu lakukan)"
+        git commit -m "(pesan yang apa kamu lakukan)"
     ```
     untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository(folder).
 
