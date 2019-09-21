@@ -13,13 +13,66 @@ Git ini sebenernya memudahkan programmer untuk mengetahui perubahan source coden
 * Git checkout : menukar branch yang aktif dengan branchyang dipilih
 * Git merge : untuk menggabungkan branch yang aktif dan branch yang dipilih
 * Git clone : membuat Salinan repository lokal
+* Git pull : untuk mengambil commit terbaru dari remote repository.
+
+## Contoh menggunakan Git :
+* Git Init
+    - ketik diterminal
+    ``` bash
+        git init
+    ```
+    untuk membuat repository(folder) pada file lokal yang nantinya ada folder .git
+
+* Git Add
+    - ketik diterminal
+    ``` bash
+        git add . atau git add \*
+    ```
+    menambahkan file baru pada repository(folder) keseluruhan
+
+    atau
+
+    ``` bash
+        git add (nama file)
+    ```
+    menambahkan file baru pada repository(folder) yang dipilih
+
+* Git Status
+    - ketik diterminal
+    ``` bash
+        git status
+    ```
+    untuk mengetahui status dari repository lokal apakah sudah diadd dan dihapus atau belum
+
+* Git Commit
+    - ketik diterminal
+    ``` bash
+        git commit -m \"(pesan yang apa kamu lakukan)"
+    ```
+    untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository(folder).
+
+* Git Push
+    - ketik diterminal
+    ``` bash
+        git push origin master
+    ```
+    untuk mengirimkan perubahan file setelah di commit ke remote repository(folder).
+
+* Git Pull
+    - ketik diterminal
+    ``` bash
+        git pull origin master
+    ```
+    untuk mengambil commit terbaru dari remote repository(folder).
+
+
 
 ## Link belajar Git
 * [Basic Git](https://www.atlassian.com/git)
 * [Workflow Git](https://medium.com/quick-code/top-tutorials-to-learn-git-for-beginners-622289ffdfe5)
 
 ## Beberapa application Git :
+* [Github](https://github.com)
+* [Gitlab](https://about.gitlab.com)
 * [Bitbucket](https://bitbucket.org)
 * [Assembla](https://www.assembla.com/home)
-* [Gitlab](https://about.gitlab.com)
-* [Github](https://github.com)
