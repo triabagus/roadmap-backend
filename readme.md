@@ -7,5 +7,6 @@
 4. [Object Oriented Programming](https://github.com/triabagus/roadmap-backend/tree/master/4.Object%20Oriented%20Programming)
 5. [Dependency Injection](https://github.com/triabagus/roadmap-backend/tree/master/5.%20Dependency%20Injection)
 6. [Database](https://github.com/triabagus/roadmap-backend/tree/master/6.%20Database)
+7. [Git](https://github.com/triabagus/roadmap-backend/tree/master/7.%20Git)
 # License
 &copy; [triabagus](https://github.com/triabagus/roadmap-backend)
