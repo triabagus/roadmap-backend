@@ -74,13 +74,5 @@ Git ini sebenernya memudahkan programmer untuk mengetahui perubahan source coden
 ## Beberapa application Git :
 * [Github](https://github.com)
 * [Gitlab](https://about.gitlab.com)
-<<<<<<< HEAD
 * [Bitbucket](https://bitbucket.org)
 * [Assembla](https://www.assembla.com/home)
-=======
-* [Github](https://github.com)
-
-# Sebelumnya
-[Database](https://github.com/triabagus/roadmap-backend/tree/master/6.%20Database)
-# Apa Selanjutnya ?
->>>>>>> 5e6dcd5359d8d0e7c5fa08349949f62ee86dd9fe
