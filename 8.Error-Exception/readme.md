@@ -47,7 +47,7 @@ Ketika exception terjadi karena dipicu oleh error, status kode program akan aman
 ## Excercise
 1. Coba tampilkan error2 yang ada di penjelasan tadi
 2. Coba perbaiki codingan agar error tidak muncul lagi
-3.  
+3. Gunakan exception, lalu coba tampilkan pada line berapa error muncul
 
 
 ## Link
