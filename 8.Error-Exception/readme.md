@@ -44,11 +44,17 @@ Ketika exception terjadi karena dipicu oleh error, status kode program akan aman
     }  
 ```
 
+## Excercise
+1. Coba tampilkan error2 yang ada di penjelasan tadi
+2. Coba perbaiki codingan agar error tidak muncul lagi
+3.  
+
+
 ## Link
-* [Beberapa Jenis Error Yang Mungkin Kamu Temui Saat Menggunakan PHP!](https://www.codepolitan.combeberapa-jenis-error-yang-mungkin-kamu-temui-saat-menggunakan-php)
-* [PHP Exception Handling](https://www.w3schools.com/php/php_exception.asp)
-* [Penanganan Exception pada PHP](https://nulis-ilmu.com/penanganan-exception-pada-php/)
-* [Error dan Exception](https://mrisnawanbudianto.wordpress.com/2014/05/12/error-dan-exception/)
-* [PHP - Error & Exception Handling](https://www.tutorialspoint.com/php/php_error_handling.htm)
-* [PHP 5 Error Functions](https://www.w3schools.com/php/php_ref_error.asp)
+* [Beberapa Jenis Error Yang Mungkin Kamu Temui Saat Menggunakan PHP! - codepolitan](https://www.codepolitan.combeberapa-jenis-error-yang-mungkin-kamu-temui-saat-menggunakan-php)
+* [PHP Exception Handling - w3schools](https://www.w3schools.com/php/php_exception.asp)
+* [Penanganan Exception pada PHP - nulis-ilmu](https://nulis-ilmu.com/penanganan-exception-pada-php/)
+* [Error dan Exception - mrisnawanbudianto](https://mrisnawanbudianto.wordpress.com/2014/05/12/error-dan-exception/)
+* [PHP - Error & Exception Handling - tutorialspoint](https://www.tutorialspoint.com/php/php_error_handling.htm)
+* [PHP 5 Error Functions - w3schools](https://www.w3schools.com/php/php_ref_error.asp)
 * [5 TIPS MENGHADAPI ERROR SAAT NGODING - WEB PROGRAMMING UNPAS](https://www.youtube.com/watch?v=P9369f65RXo)
