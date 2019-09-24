@@ -51,3 +51,4 @@ Ketika exception terjadi karena dipicu oleh error, status kode program akan aman
 * [Error dan Exception](https://mrisnawanbudianto.wordpress.com/2014/05/12/error-dan-exception/)
 * [PHP - Error & Exception Handling](https://www.tutorialspoint.com/php/php_error_handling.htm)
 * [PHP 5 Error Functions](https://www.w3schools.com/php/php_ref_error.asp)
+* [5 TIPS MENGHADAPI ERROR SAAT NGODING - WEB PROGRAMMING UNPAS](https://www.youtube.com/watch?v=P9369f65RXo)
