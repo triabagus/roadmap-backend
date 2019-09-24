@@ -8,5 +8,6 @@
 5. [Dependency Injection](https://github.com/triabagus/roadmap-backend/tree/master/5.%20Dependency%20Injection)
 6. [Database](https://github.com/triabagus/roadmap-backend/tree/master/6.%20Database)
 7. [Git](https://github.com/triabagus/roadmap-backend/tree/master/7.%20Git)
+8. [Error & Exception](https://github.com/triabagus/roadmap-backend/tree/master/8.Error-Exception) 
 # License
 &copy; [triabagus](https://github.com/triabagus/roadmap-backend)
