@@ -75,6 +75,7 @@ Git ini sebenernya memudahkan programmer untuk mengetahui perubahan source coden
 ## Link belajar Git
 * [Basic Git](https://git-scm.com/doc)
 * [Workflow Git](https://medium.com/quick-code/top-tutorials-to-learn-git-for-beginners-622289ffdfe5)
+*[Video](https://www.youtube.com/watch?v=lTMZxWMjXQU)
 
 ## Beberapa application Git :
 * [Github](https://github.com)
