@@ -10,5 +10,6 @@
 7. [Git](https://github.com/triabagus/roadmap-backend/tree/master/7.%20Git)
 8. [Error & Exception](https://github.com/triabagus/roadmap-backend/tree/master/8.Error-Exception)
 9. [Authentication](https://github.com/triabagus/roadmap-backend/tree/master/9.%20Authentication)
+10. [Authorization](https://github.com/triabagus/roadmap-backend/tree/master/10.%20Authorization)
 # License
 &copy; [triabagus](https://github.com/triabagus/roadmap-backend)
