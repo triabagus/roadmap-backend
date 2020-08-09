@@ -50,4 +50,4 @@
 4. Kesimpulan yang bisa didapat ?
 
 ## Selanjutnya apa ?
-[Firts-Touch](https://github.com/triabagus/roadmap-backend/tree/master/2.Firts%20Touch)
+[Firts-Touch](https://github.com/triabagus/roadmap-backend/tree/master/2.%20Firts%20Touch)
